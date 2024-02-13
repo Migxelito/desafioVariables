@@ -1,0 +1,16 @@
+Proceso sin_titulo
+	Escribir 'Ingrese numero1';
+	Leer numero1;
+	Escribir 'Ingrese numero2';
+	Leer numero2;
+	suma <- numero1 + numero2;
+	Escribir 'el resultado de la suma es:', suma;
+	resta <- numero1 - numero2;
+	Escribir 'el resultado de la resta es: ' resta;
+	multiplicación <- numero1 * numero2;
+	Escribir 'el resultado de la multiplicación es: ' multiplicación;
+	división <- numero1 / numero2;
+	Escribir 'el resultado de la división es: ' división;
+	modulo <- numero1 % numero2;
+	Escribir 'el resultado de modulo es: ' modulo;
+FinProceso
